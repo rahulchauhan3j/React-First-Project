@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-First React Project - A static page.
+First React Project - A static page. This is a practice project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
